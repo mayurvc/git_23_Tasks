@@ -1,0 +1,11 @@
+git init : Initialize a local git repo in system.
+git add "filename" : Add the file into staged phase.
+git commit -m "message" : Commit the data / Add the data in the repo.
+git status : To identify the status of the files.
+git log : To check the commits.
+git remote -v : List the remote repo-url for the origin.
+git remote add origin "remote-url" : Add remote-url in local.
+git push origin "branch-name" : To push data from local to remote repo.
+git branch : List all the branches in a repo.
+git branch "branch-name" : To create a new branch.
+git checkout "branch-name" : To switch branches.
